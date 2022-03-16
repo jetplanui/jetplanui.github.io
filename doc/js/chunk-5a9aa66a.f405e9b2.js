@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-5a9aa66a"],{"16a9":function(n,t,a){"use strict";a.r(t);var e=a("5037");function i(n,t,a,i,u,s){return Object(e["w"])(),Object(e["h"])("strong",null,"建造中。。。")}var u=a("ba87"),s={mixins:[u["a"]],name:"Building...",data:()=>({})},c=a("b3f2"),o=a.n(c);const r=o()(s,[["render",i]]);t["default"]=r},ba87:function(n,t,a){"use strict";t["a"]={mounted(){this.$emit("md-title",this.$route.name)}}}}]);
+//# sourceMappingURL=chunk-5a9aa66a.f405e9b2.js.map
