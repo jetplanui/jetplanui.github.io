@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktest"]=self["webpackChunktest"]||[]).push([[895],{6895:function(e,t,n){n.r(t),n.d(t,{default:function(){return o}});var r=n(3396);const u=(0,r._)("h1",null,"Test Page",-1);function s(e,t,n,s,a,c){const f=(0,r.up)("j-row");return(0,r.wg)(),(0,r.j4)(f,{X:"center"},{default:(0,r.w5)((()=>[u])),_:1})}var a={name:"the-test-page"},c=n(89);const f=(0,c.Z)(a,[["render",s]]);var o=f}}]);
+//# sourceMappingURL=895.34e49ee2.js.map
