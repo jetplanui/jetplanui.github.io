@@ -1,1 +1,38 @@
-<!doctype html><html lang="zh-Hans"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="/favicon.ico"><title>JetPlanUI</title><script src="https://unpkg.com/spacingjs" defer="defer"></script><script defer="defer" src="/js/chunk-vendors.1936b904.js"></script><script defer="defer" src="/js/index.386adefe.js"></script></head><body><noscript><strong>We're sorry but test doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id="app"></div></body></html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link
+    rel="icon"
+    type="public/favicon.ico"
+  />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  />
+  <script
+    src="https://unpkg.com/spacingjs"
+    defer
+  ></script>
+  <title>jet-plan-ui</title>
+</head>
+
+<body>
+  <noscript>
+    <strong>We're sorry but
+      <%=
+        htmlWebpackPlugin.options.title
+        %
+      > doesn't work properly without JavaScript enabled.
+        Please enable it to continue.
+    </strong>
+  </noscript>
+  <script
+    type="module"
+    src="/src/main.ts"
+  ></script>
+  <div id="app"></div>
+</body>
+
+</html>
