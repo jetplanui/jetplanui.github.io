@@ -1,4 +1,4 @@
-import{d as s,o as p,i as E,w as o,u as i,Q as r,b as u,T as B,c as F,a as e,e as C,r as l,f as _}from"./index.c98d0d34.js";const h=u("pre",null,[u("code",null,`
+import{d as s,o as p,i as E,w as o,u as i,Q as r,b as u,T as B,c as F,a as e,e as C,r as l,f as _}from"./index.5c0c0359.js";const h=u("pre",null,[u("code",null,`
 function sayHello() {
   console.log("Hello world !");
 }
