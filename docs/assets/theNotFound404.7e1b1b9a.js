@@ -1,0 +1,1 @@
+import{d as t,i as o,w as a,u as e,o as n,a as s,k as r,m as d,g as i,b as _}from"./index.3dee3569.js";const u=_("h1",null,"404",-1),f=t({__name:"theNotFound404",setup(c){return(l,m)=>(n(),o(e(i),{id:"view-guide","drawer-expand":!0},{default:a(()=>[s(e(d),null,{drawer:a(()=>[s(e(r))]),_:1}),u]),_:1}))}});export{f as default};
