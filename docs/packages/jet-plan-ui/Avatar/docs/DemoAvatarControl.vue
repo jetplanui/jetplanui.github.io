@@ -1,13 +1,13 @@
 <template>
-  <div class="demo no-padding demo-bubble">
+  <div class="demo">
     <slot :circle="circle"></slot>
   </div>
-  <div class="demo xy-selector">
+  <div class="demo control padding">
     <!-- Position -->
-    <p><strong>Use circle or rectangle</strong></p>
+    <p class="sub-title">Use circle or rectangle</p>
     <Row Y="center" spaceMode="between">
       <ActionLabel>
-        <strong>Click to {{ !circle ? "circle" : "rectangle" }}</strong>
+        <p>Click to {{ !circle ? "circle" : "rectangle" }}</p>
         <Switch>
           <input type="checkbox" v-model="circle" />
         </Switch>
